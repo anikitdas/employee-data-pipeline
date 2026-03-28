@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,email,hire_date,job_title,department,salary,manager_id,address,city,state,zip_code,birth_date,status,full_name,email_domain,age,tenure_years,salary_band
+1001,John,Doe,john.doe@company.com,2020-01-15,Software Engineer,IT,75000.0,2001,123 Main St,New York,NY,10001,1990-05-15,Active,John Doe,company.com,36,6,Mid
+1002,Jane,Smith,jane.smith@company.com,2019-03-20,Data Analyst,Analytics,65000.0,2002,456 Oak Ave,Los Angeles,CA,90210,1988-08-22,Active,Jane Smith,company.com,38,7,Mid
+1004,Alice,Brown,alice.brown@email.com,2021-07-10,HR Manager,HR,45000.0,2003,111 First St,Houston,TX,77001,1992-03-12,Active,Alice Brown,email.com,34,5,Junior
+1005,Tom,Lee,tom.lee@email,2018-11-05,Finance Analyst,Finance,85000.0,2004,222 Second St,Seattle,WA,98101,1987-06-18,Active,Tom Lee,email,39,8,Senior
